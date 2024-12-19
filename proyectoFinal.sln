@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "packet_interceptor3000", "packet_interceptor3000\packet_interceptor3000.vcxproj", "{393C22BB-E334-4435-B001-BB6482F1E982}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "app-packet_interceptor3000", "app-packet_interceptor3000\app-packet_interceptor3000.vdproj", "{4BE59003-B3E5-41D3-8DF6-84D55AAD78D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393C22BB-E334-4435-B001-BB6482F1E982}.Debug|x64.ActiveCfg = Release|x64
+		{393C22BB-E334-4435-B001-BB6482F1E982}.Debug|x64.Build.0 = Release|x64
+		{393C22BB-E334-4435-B001-BB6482F1E982}.Debug|x86.ActiveCfg = Debug|Win32
+		{393C22BB-E334-4435-B001-BB6482F1E982}.Debug|x86.Build.0 = Debug|Win32
+		{393C22BB-E334-4435-B001-BB6482F1E982}.Release|x64.ActiveCfg = Release|x64
+		{393C22BB-E334-4435-B001-BB6482F1E982}.Release|x64.Build.0 = Release|x64
+		{393C22BB-E334-4435-B001-BB6482F1E982}.Release|x86.ActiveCfg = Release|Win32
+		{393C22BB-E334-4435-B001-BB6482F1E982}.Release|x86.Build.0 = Release|Win32
+		{4BE59003-B3E5-41D3-8DF6-84D55AAD78D0}.Debug|x64.ActiveCfg = Debug
+		{4BE59003-B3E5-41D3-8DF6-84D55AAD78D0}.Debug|x86.ActiveCfg = Debug
+		{4BE59003-B3E5-41D3-8DF6-84D55AAD78D0}.Release|x64.ActiveCfg = Release
+		{4BE59003-B3E5-41D3-8DF6-84D55AAD78D0}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90264AAC-0DEB-46D9-9F18-9B41B142AAFB}
+	EndGlobalSection
+EndGlobal
